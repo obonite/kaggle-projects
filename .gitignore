@@ -74,3 +74,4 @@ mlruns/
 # DVC (Data Version Control - if you use it for large data management)
 .dvc/
 *.dvc
+house-prices/.ipynb_checkpoints/house_prices-checkpoint.ipynb
